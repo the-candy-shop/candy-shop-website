@@ -2,8 +2,11 @@ import React from "react";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import logo from "./logo.png";
+import { useMediaQuery } from "@mui/material";
 
 function App() {
+  const isMobile = useMediaQuery("(max-width:915px)");
+
   return (
     <Box display="flex" justifyContent="center" padding="32px">
       <Box maxWidth="895px">
@@ -16,7 +19,7 @@ function App() {
         </Box>
         <Box
           marginTop="64px"
-          fontSize="24px"
+          fontSize={isMobile ? "20px" : "24px"}
           lineHeight="36px"
           sx={{
             "& .MuiLink-root": {
