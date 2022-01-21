@@ -47,7 +47,8 @@ function App() {
                 technological utopianism are tempting but limited.
               </p>
               <p>
-                A good first step is to recognize what’s wrong and we think{" "}
+                A good first step is to recognize what's wrong in this space and
+                we think{" "}
                 <Link
                   href="https://moxie.org/2022/01/07/web3-first-impressions.html"
                   target="_blank"
@@ -72,7 +73,7 @@ function App() {
               </p>
               <p>
                 Reading, investing and developing a critical thinking is
-                necessary but no enough.
+                necessary but not enough.
               </p>
               <p>
                 We believe the best best way to move forward is by building
