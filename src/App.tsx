@@ -43,7 +43,7 @@ function App() {
             <Box sx={{ marginTop: "48px" }}>
               <p>
                 Web3 and blockchain technologies are still in their infancy and
-                most business cases are left to emerge. Naive optimism or
+                most business cases have yet to emerge. Naive optimism or
                 technological utopianism are tempting but limited.
               </p>
               <p>
@@ -68,16 +68,16 @@ function App() {
                 distributed databases still feels right.
               </p>
               <p>
-                How to move forward in this space full of uncertainty as an
-                optimistic person eager to building in web3?
+                How can we move forward in this space full of uncertainty as an
+                optimistic person, eager to build in web3?
               </p>
               <p>
                 Reading, investing and developing a critical thinking is
                 necessary but not enough.
               </p>
               <p>
-                We believe the best best way to move forward is by building
-                stuff. A lot of stuff. With great vibes, great stories and fun.
+                We believe the best way to move forward is by building stuff. A
+                lot of stuff. With great vibes, great stories and fun.
               </p>
               <p>We will develop NFT collections following 3 golden rules:</p>
               <ul>
@@ -91,7 +91,7 @@ function App() {
               </p>
               <p>That’s why we are launching the Candy Shop.</p>
               <p>
-                The Candy Shop is here to push to its edges what's possible
+                The Candy Shop is here to push out the edges of what's possible
                 on-chain.
               </p>
             </Box>
@@ -115,11 +115,11 @@ function App() {
               <p>
                 We determine who can mint based on specific NFT ownership. In
                 this case, a Chain Runner is needed for early access. Then,
-                we’ll open the mint to the public
+                we’ll open the mint to the public.
               </p>
               <p>
-                Of course, owning a Chain Dreamer will give you a special access
-                to all our future collections and drugs.
+                Of course, owning a Chain Dreamer will grant you access to all
+                our future collections and drugs.
               </p>
               <p>
                 We chose{" "}
@@ -127,17 +127,17 @@ function App() {
                   Chain Runner
                 </Link>{" "}
                 as our first partner project because they are on-chain, they
-                have a great narrative and the community is creative.
+                have a great narrative and the community is very creative.
               </p>
               <p>
                 In the short term, our next improvement will be the Chain
-                Dreamer rendering function. Today, while all information is
-                stored on-chain, we didn't manage to keep the rendering function
-                below the 50m gas limit for free rendering.
+                Dreamer rendering function. Today, while all the information is
+                stored on-chain, we couldn't manage to keep the rendering
+                function below the 50m gas limit for free rendering.
               </p>
               <p>We'll work on this right after the minting is done.</p>
               <p>
-                We'll use a part of the money to build a beautiful 3D Metaverse
+                We'll use part of the money to build a beautiful 3D Metaverse
                 version of the Candy Shop.
               </p>
               <p>
@@ -154,7 +154,7 @@ function App() {
             <h2 style={{ marginTop: "48px" }}>Next project</h2>
             <Box>
               <p>
-                There are high probabilities we'll stay for a while in Mega-City
+                There is a high probability we'll stay for a while in Mega-City
                 (Chain Runners Metaverse) but we'll eventually expand to any
                 Metaverse.
               </p>
