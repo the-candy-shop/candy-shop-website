@@ -2,7 +2,6 @@ import React from "react";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import logo from "./logo.png";
-import { useMediaQuery } from "@mui/material";
 
 function App() {
   return (
