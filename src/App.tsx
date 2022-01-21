@@ -5,8 +5,6 @@ import logo from "./logo.png";
 import { useMediaQuery } from "@mui/material";
 
 function App() {
-  const isMobile = useMediaQuery("(max-width:915px)");
-
   return (
     <Box display="flex" justifyContent="center" padding="32px">
       <Box maxWidth="671px">
