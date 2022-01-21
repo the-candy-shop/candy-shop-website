@@ -9,7 +9,7 @@ function App() {
 
   return (
     <Box display="flex" justifyContent="center" padding="32px">
-      <Box maxWidth="895px">
+      <Box maxWidth="671px">
         <Box textAlign="center">
           <img
             alt="logo"
@@ -18,12 +18,12 @@ function App() {
           />
         </Box>
         <Box
-          marginTop="64px"
-          fontSize={isMobile ? "20px" : "24px"}
-          lineHeight="36px"
+          marginTop="128px"
+          fontSize="18px"
+          lineHeight="27px"
           sx={{
             "& .MuiLink-root": {
-              color: "rgb(68, 223, 253)",
+              color: "rgb(0 190 227)",
             },
           }}
         >
@@ -70,7 +70,7 @@ function App() {
             <li>Expanding what we consider the best NFT franchises</li>
             <li>Narrative-driven</li>
           </ul>
-          <h2>Next steps</h2>
+          <h3 style={{ marginTop: "48px" }}>Next steps</h3>
           <p>
             In the short term, our next improvement will be the Chain Dreamer
             rendering function. Today, while all information is stored on-chain,
@@ -82,7 +82,7 @@ function App() {
             We'll use a part of the money to build a beautiful 3D Metaverse
             version of the Candy Shop.
           </p>
-          <h2>Next project</h2>
+          <h3 style={{ marginTop: "48px" }}>Next project</h3>
           <p>
             There are high probabilities we'll stay for a while in Mega-City but
             we'll eventually expand to any Metaverse world.
@@ -104,6 +104,21 @@ function App() {
           <p>
             There are many projects inspiring us and there is so much to do:
             Nouns, Loot...
+          </p>
+          <p style={{ marginTop: "32px" }}>
+            <em>
+              <span style={{ color: "rgb(140, 140, 146)" }}>
+                —{" "}
+                <Link href="https://twitter.com/abbeyjazzy" target="_blank">
+                  Jason
+                </Link>
+                ,{" "}
+                <Link href="https://twitter.com/ClementWalter" target="_blank">
+                  Clément
+                </Link>{" "}
+                & and Candy Shop Team
+              </span>
+            </em>
           </p>
         </Box>
       </Box>
