@@ -121,9 +121,12 @@ function App() {
                 to all our future collections and drugs.
               </p>
               <p>
-                We chose [Chain Runner](https://www.chainrunners.xyz/) as our
-                first partner project because they are on-chain, they have a
-                great narrative and the community is creative.
+                We chose{" "}
+                <Link href="https://www.chainrunners.xyz/" target="_blank">
+                  Chain Runner
+                </Link>{" "}
+                as our first partner project because they are on-chain, they
+                have a great narrative and the community is creative.
               </p>
               <p>
                 In the short term, our next improvement will be the Chain
