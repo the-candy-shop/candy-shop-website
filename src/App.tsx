@@ -2,8 +2,11 @@ import React from "react";
 import Box from "@mui/material/Box";
 import Link from "@mui/material/Link";
 import logo from "./logo.png";
+import { useMediaQuery } from "@mui/material";
 
 function App() {
+  const isMobile = useMediaQuery("(max-width:915px)");
+
   return (
     <Box display="flex" flexDirection="column" alignItems="center">
       <Box
@@ -12,6 +15,7 @@ function App() {
         height="68px"
         display="flex"
         alignItems="center"
+        justifyContent={isMobile ? "center" : "flex-start"}
       >
         <img
           alt="logo"

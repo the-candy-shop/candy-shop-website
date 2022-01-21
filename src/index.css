@@ -16,6 +16,7 @@ code {
 
 h1 {
   font-weight: 400;
+  line-height: 1.4em;
 }
 
 
@@ -27,4 +28,5 @@ h2 {
 
 h3 {
   font-weight: 400;
+  line-height: 1.4em;
 }
